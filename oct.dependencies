@@ -1,9 +1,9 @@
 [
   {
-    "remote": "ok",
-    "repository": "platform_kernel_lge_mako",
+    "remote": "cr",
+    "repository": "android_kernel_lge_mako",
     "target_path": "kernel/lge/mako",
-    "revision": "WIP"
+    "revision": "kk"
   },
   {
     "remote": "tm",
